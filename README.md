@@ -1,6 +1,5 @@
 # stupy - Study python
 
-
 ## Build
 
 ```bash
