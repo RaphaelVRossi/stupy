@@ -1,1 +1,1 @@
-# stupy
+# stupy - Study python
